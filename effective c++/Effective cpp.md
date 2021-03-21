@@ -199,3 +199,7 @@ Widget& Widget::operator=(const Widget& rhs){
 ### *使用模板泛化构造函数*
 
 详细可见原文
+
+## 条款46：需要类型转换时请为模板定义非成员函数
+
+![image-20210321212118232](Effective cpp.assets/image-20210321212118232.png)
